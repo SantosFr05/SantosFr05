@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋 Eu me chamo Jaine, estou estudando no alura, criando projetos.
 
 <!--
 **SantosFr05/SantosFr05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
